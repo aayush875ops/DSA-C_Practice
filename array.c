@@ -2,7 +2,7 @@
 
 int main() {
     int arr[] = {10, 25, 42, 7, 89};
-    int n = 5; // size of the array
+    int n = sizeof(arr) / sizeof(arr[0]); // size of the array
     int target = 42; // the number we are looking for
     int found = -1; // stores the index if found
 
