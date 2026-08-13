@@ -7,7 +7,7 @@ Welcome to my C language Data Structures & Algorithms learning journey!
 ## 🔹 Basic Algorithms
 
 ### Searching
-- 📄 [Linear Search](./linear_search.c) — Sequential element search in an array
+- 📄 [Linear Search](./linear.c) — Sequential element search in an array
 - 📄 [Binary Search](./binary_search.c) — Fast target searching in a sorted array
 
 ### Sorting
