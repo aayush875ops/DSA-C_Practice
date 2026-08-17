@@ -27,3 +27,4 @@ Welcome to my C language Data Structures & Algorithms learning journey!
 ## 🔹 Pattern 2: Sliding Window
 - 📄 [Max Sum Subarray](./sliding_window.c) — Maximum sum of K consecutive elements
 - 📄 [First Negative Integer](./first_negative.c) — First negative number in every window of size K
+| Minimum Size Subarray Sum | Variable Sliding Window | [`min_subarray_len.c`](./min_subarray_len.c) | O(N) | O(1) |
