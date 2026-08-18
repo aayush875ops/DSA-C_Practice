@@ -28,3 +28,4 @@ Welcome to my C language Data Structures & Algorithms learning journey!
 - 📄 [Max Sum Subarray](./sliding_window.c) — Maximum sum of K consecutive elements
 - 📄 [First Negative Integer](./first_negative.c) — First negative number in every window of size K
  - 📄 [Minimum Size Subarray Sum](./min_subarray_len.c) — Smallest subarray with sum >= target (Variable Window)
+ - 📄 [Max Consecutive Ones III](./max_consecutive_ones.c) — Longest subarray of 1s with at most K zero flips (Variable Window)
