@@ -34,3 +34,4 @@ Welcome to my C language Data Structures & Algorithms learning journey!
 - 📄 [Minimum Size Subarray Sum](./min_subarray_len.c) — Smallest subarray with sum >= target
 - 📄 [Max Consecutive Ones III](./max_consecutive_ones.c) — Longest subarray of 1s with at most K zero flips
 - 📄 [Longest Substring Without Repeating Characters](./longest_substring_unique.c) — Longest substring with all unique characters
+- 📄 [Fruit Into Baskets](./fruits_into_baskets.c) — Max length subarray with at most 2 distinct elements

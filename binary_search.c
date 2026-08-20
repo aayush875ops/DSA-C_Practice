@@ -4,8 +4,7 @@ int binarySearch(int arr[], int size, int target) {
     int left = 0;
     int right = size - 1;
 
-    // TODO: Write your while loop here!
-    // Remember the 4 steps:
+    
     while(left<=right){
         int mid=left+(right-left)/2;
         if(arr[mid]==target){
@@ -19,13 +18,8 @@ int binarySearch(int arr[], int size, int target) {
         }
                     }
                 
-    // 1. Loop condition (left <= right)
-    // 2. Calculate mid
-    // 3. Check if target is at mid (return mid)
-    // 4. Update left or right boundary based on target size
-
-    return -1; // Returns -1 if the loop finishes and nothing is found
-}
+   
+        return -1; }
 
 int main() {
     int arr[] = {12, 24, 35, 48, 59, 63, 75, 88, 92};
