@@ -18,10 +18,11 @@ Welcome to my C language Data Structures & Algorithms learning journey!
 ---
 
 ## 🔹 Pattern 1: Two Pointers
+
 - 📄 [Two Sum](./two_sum.c) — Find target sum using left and right pointers
 - 📄 [Valid Palindrome](./valid_palindrome.c) — String matching from both ends
 - 📄 [Reverse Array](./reverse_array.c) — In-place array swapping using two pointers
-
+- 📄 [Container With Most Water](./container_with_most_water.c) — Maximize water area between vertical lines
 ---
 
 ## 🔹 Pattern 2: Sliding Window
